@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a6d670d6-a413-4daa-994a-908c287ac8c9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,7 +23,7 @@
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1755">
-              <caret line="167" column="10" lean-forward="true" selection-start-line="167" selection-start-column="10" selection-end-line="167" selection-end-column="10" />
+              <caret line="169" column="10" lean-forward="true" selection-start-line="169" selection-start-column="10" selection-end-line="169" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -84,6 +84,11 @@
               <item name="GitHub_prework" type="b2602c69:ProjectViewProjectNode" />
               <item name="GitHub_prework" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="GitHub_prework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GitHub_prework" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -93,6 +98,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RunDashboard">
@@ -122,7 +128,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="43" width="1400" height="771" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -155,7 +160,7 @@
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1755">
-          <caret line="167" column="10" lean-forward="true" selection-start-line="167" selection-start-column="10" selection-end-line="167" selection-end-column="10" />
+          <caret line="169" column="10" lean-forward="true" selection-start-line="169" selection-start-column="10" selection-end-line="169" selection-end-column="10" />
         </state>
       </provider>
     </entry>
